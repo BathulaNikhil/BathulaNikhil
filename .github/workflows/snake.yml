@@ -1,9 +1,13 @@
+
 name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Run every hour
+    - cron: "17 * * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -11,14 +15,17 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate snake animation
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: BathulaNikhil
@@ -26,7 +33,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish animation
+      - name: Publish SVG animations
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
