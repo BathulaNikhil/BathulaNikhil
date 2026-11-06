@@ -129,9 +129,15 @@ Real-time AI application development and experimentation.
 
 My GitHub contribution calendar is available directly on my profile.
 
-**Contribution Snake**
+
+## CONTRIBUTION ACTIVITY
+
+<div align="center">
 
 ![Contribution Snake](https://raw.githubusercontent.com/BathulaNikhil/BathulaNikhil/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 
 ---
 
