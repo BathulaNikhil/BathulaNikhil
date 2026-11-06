@@ -1,142 +1,140 @@
-# 👋 Hi, I'm Nikhil Bathula
+# NIKHIL BATHULA
 
-### 🚀 Full Stack Engineer | AI & LLM Developer | Enterprise Software Engineer
+### FULL STACK ENGINEER  ×  AI / LLM DEVELOPER
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:151528,50:54218B,100:9B36C8&height=200&section=header&text=NIKHIL%20BATHULA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20%7C%20AI%20ENGINEER&descAlignY=60&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:334155,100:0F766E&height=190&section=header&text=NIKHIL%20BATHULA&fontSize=43&fontColor=E2E8F0&fontAlignY=38&desc=ENGINEERING%20SCALABLE%20SOFTWARE%20%7C%20BUILDING%20WITH%20AI&descSize=13&descAlignY=60&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Enterprise+Applications;Exploring+AI%2C+LLMs+%26+RAG+Systems)
-
-I'm a Software Engineer with **4+ years of experience** building enterprise applications, scalable backend services, modern web applications, and AI-powered solutions.
-
-I enjoy transforming complex business requirements into reliable, maintainable software.
-
-- 💻 Full Stack Application Development
-- ⚙️ Java & Spring Boot Backend Engineering
-- 🎨 React & Vue.js Frontend Development
-- 🤖 AI, LLM Integration & RAG Systems
-- 🗄️ PostgreSQL & Database Architecture
-- 🐳 Docker, Linux & Infrastructure
-- 🏗️ Enterprise ERP, HRM & Workflow Systems
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Enterprise+Systems+%26+Architecture;AI+Engineering+%7C+LLMs+%7C+RAG;Turning+Ideas+Into+Scalable+Products)
 
 ---
 
-## 🛠️ Technical Skills
+### ABOUT ME
 
-### Programming Languages
+I'm a Software Engineer passionate about building scalable applications, intelligent systems, and enterprise-grade software.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+My work spans full-stack engineering, backend architecture, database systems, and AI integration.
 
-### Frontend Development
+- Building enterprise applications and business platforms.
+- Designing scalable REST APIs and backend services.
+- Developing modern web applications and user experiences.
+- Exploring LLMs, local AI models, and RAG architectures.
+- Interested in system design, performance, and engineering quality.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### AI & Machine Learning
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+**My philosophy:** Write clean code. Design for scale. Build with purpose.
 
 ---
 
-## 🏗️ Engineering Expertise
+### TECHNICAL ARSENAL
 
-| Enterprise Software | AI & Intelligent Systems |
-|---|---|
-| Manufacturing ERP | LLM Integration |
-| Inventory Management | Qwen & Ollama |
-| HR Management Systems | RAG Architecture |
-| Payroll Applications | Document Intelligence |
-| Procurement Workflows | Vector Search |
-| Workflow Automation | Embeddings & Semantic Search |
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
 
-## 🚀 Featured Projects
+**Frontend**
 
-### 🤖 AI & Real-Time Applications
+![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-1F2937?style=flat-square&logo=vuedotjs&logoColor=41B883)
+![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6)
 
-- [Google AI Live Stream](https://github.com/BathulaNikhil/google_ai_live_stream)
+**Backend & APIs**
 
-### 🌐 Web Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1F2937?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=009688)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=flat-square&logo=postman&logoColor=FF6C37)
 
-- [Portfolio Websites](https://github.com/BathulaNikhil/portfolio-websites)
-- [Personal Portfolio](https://github.com/BathulaNikhil/portfolio_nikhil)
-- [Nityainfo](https://github.com/BathulaNikhil/Nityainfo)
+**AI & Machine Learning**
 
-### 📱 Mobile Development
+![OpenAI](https://img.shields.io/badge/OpenAI-1F2937?style=flat-square&logo=openai&logoColor=FFFFFF)
+![Ollama](https://img.shields.io/badge/Ollama-1F2937?style=flat-square&logo=ollama&logoColor=FFFFFF)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-1F2937?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-1F2937?style=flat-square&logo=chainlink&logoColor=FFFFFF)
+![Qdrant](https://img.shields.io/badge/Qdrant-1F2937?style=flat-square&logoColor=FFFFFF)
 
-- [Restaurant Application](https://github.com/BathulaNikhil/restaurant_app)
+**Databases & Infrastructure**
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BathulaNikhil&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BathulaNikhil&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BathulaNikhil&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BathulaNikhil&theme=tokyo-night&hide_border=true)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-1F2937?style=flat-square&logo=nginx&logoColor=009639)
 
 ---
 
-## 📚 Currently Exploring
+### ENGINEERING DOMAINS
 
-- Advanced Java and Spring Boot Architecture
+| DOMAIN | FOCUS |
+|:---|:---|
+| Enterprise Engineering | ERP, HRM, Payroll, Manufacturing |
+| Backend Engineering | APIs, Services, Security, Architecture |
+| Frontend Engineering | React, Vue, Angular, UI Systems |
+| AI Engineering | LLMs, RAG, Embeddings, Inference |
+| Data Engineering | PostgreSQL, MySQL, Vector Search |
+| Infrastructure | Docker, Linux, Nginx, Deployment |
+
+---
+
+### SELECTED PROJECTS
+
+**AI & Real-Time Applications**
+
+[google_ai_live_stream](https://github.com/BathulaNikhil/google_ai_live_stream)
+
+**Web Engineering**
+
+[portfolio-websites](https://github.com/BathulaNikhil/portfolio-websites) · [portfolio_nikhil](https://github.com/BathulaNikhil/portfolio_nikhil) · [Nityainfo](https://github.com/BathulaNikhil/Nityainfo)
+
+**Mobile Development**
+
+[restaurant_app](https://github.com/BathulaNikhil/restaurant_app)
+
+---
+
+### GITHUB ANALYTICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BathulaNikhil&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&icon_color=5EEAD4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BathulaNikhil&layout=compact&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BathulaNikhil&theme=dark&hide_border=true&background=0D1117&ring=5EEAD4&fire=5EEAD4&currStreakLabel=E2E8F0)
+
+---
+
+### CONTRIBUTION ACTIVITY
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BathulaNikhil&bg_color=0D1117&color=94A3B8&line=5EEAD4&point=E2E8F0&area=true&hide_border=true)
+
+---
+
+### CURRENTLY EXPLORING
+
+- Advanced Java & Spring Boot Architecture
 - Enterprise System Design
-- LLM Inference Optimization
-- Qwen Model Fine-Tuning
+- Qwen & Local LLM Optimization
+- AI Model Fine-Tuning
 - Retrieval-Augmented Generation
-- Vector Database Optimization
-- AI-Powered Enterprise Applications
+- Vector Search & Semantic Retrieval
+- Intelligent Enterprise Applications
 
 ---
 
-## 🤝 Connect With Me
+### CONNECT
 
-- 💻 GitHub: [@BathulaNikhil](https://github.com/BathulaNikhil)
-- 💼 LinkedIn: Add your LinkedIn URL
-- 🌐 Portfolio: Add your portfolio URL
-- 📧 Email: Add your professional email
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BathulaNikhil)
 
 ---
 
-### 💡 Building Software | Exploring AI | Solving Real-World Problems
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+**BUILD. LEARN. ENGINEER. REPEAT.**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9B36C8,50:54218B,100:151528&height=100&section=footer)
+*Engineering the future, one system at a time.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:334155,100:0F172A&height=100&section=footer)
+
+</div>
